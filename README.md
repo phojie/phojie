@@ -29,4 +29,3 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phojie&theme=onedark)](https://git.io/streak-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phojie" alt="phojie" /></p>

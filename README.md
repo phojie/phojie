@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **phojrengel@gmail.com**
 
-- ⚡ Fun fact **I think I’m almost done 🤪**
+- ⚡ Sleepless nights && Eatless days 👽
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phojie&theme=juicyfresh" alt="phojie" /></a> </p> -->
 
-- 🔭 I’m currently working on [CKCM NETWORK](https://ckcm.edu.ph/) and [BMIS-TUBOD](https://pobtubodldn.com/)
+- 🔭 I’m currently working on [CKCM NETWORK](https://nervous-tereshkova-fb6118.netlify.app/) and [BMIS-TUBOD](https://pobtubodldn.com/)
 
 - 💬 Ask me about **Nuxt, Quasar, Firebase, Strapi, Node JS, Vue,and Laravel**
 

@@ -28,4 +28,4 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phojie&show_icons=true&locale=en" alt="phojie" /></p> -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phojie&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=27BE2A)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phojie&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=27BE2A)](https://git.io/streak-stats)

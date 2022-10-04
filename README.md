@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [CKCM NETWORK](https://ckcm.netlify.app/) and [BMIS-TUBOD](https://pobtubodldn.com/)
 
-- 💬 Ask me about **Nuxt, Quasar, Firebase, Strapi, Node JS, Vue,and Laravel**
-
 - 📫 How to reach me **phojrengel@gmail.com**
 
 - ⚡ Working Sleepless nights && Eatless days 👽

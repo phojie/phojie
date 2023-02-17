@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phojie&theme=juicyfresh" alt="phojie" /></a> </p> -->
 
-- 🔭 I’m currently working on [CKCM NETWORK](https://ckcm.netlify.app/) and [BMIS-TUBOD](https://pobtubodldn.com/)
+- 🔭 I’m currently looking for a job...
 
 - 📫 How to reach me **phojrengel@gmail.com**
 

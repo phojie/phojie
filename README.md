@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **phojrengel@gmail.com**
 
-- ⚡ Working Sleepless nights && Eatless days so you don't have to 👽
+- ⚡ Working sleepless nights && eatless days so you don't have to 👽
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phojie&show_icons=true&locale=en&layout=compact" alt="phojie" /></p> -->
 

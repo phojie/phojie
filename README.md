@@ -15,5 +15,5 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phojie&show_icons=true&locale=en" alt="phojie" /></p> -->
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phojie&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=BBBE3F)](https://git.io/streak-stats) 
+[![phojie's github stats](https://github-readme-stats.vercel.app/api?username=phojie&show_icons=true&hide=issues&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phojie&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)](#)

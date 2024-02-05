@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phojie&theme=juicyfresh" alt="phojie" /></a> </p> -->
 
-- 🔭 'm actively seeking new job opportunities and would love to connect with you. 
+<!-- < - 🔭 'm actively seeking new job opportunities and would love to connect with you. -->
 
 - 📫 How to reach me **phojrengel@gmail.com**
 
